@@ -6,4 +6,5 @@
 
 The code is :https://github.com/xinyihaha/1/blob/Exam2/app/src/main/java/com/example/sxy/firstandroid/MainActivity.java
 
-The answer is (https://github.com/xinyihaha/1/blob/Exam2/app/src/main/res/answer.png# 1)
+The answer is (https://github.com/xinyihaha/1/blob/Exam2/app/src/main/res/answer.png# ) or
+https://github.com/xinyihaha/1/blob/Exam2/app/src/main/res/2.png
